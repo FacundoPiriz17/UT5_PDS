@@ -1,4 +1,3 @@
-<!--
 insertar(unaPalabra)
 COM
 nodo = this
@@ -35,5 +34,3 @@ COM
     fin si
     devolver 0
 FIN
-
--->
